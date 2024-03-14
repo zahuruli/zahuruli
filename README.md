@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, This is Zahurul Islam
+#### Software Developer
+![Software Developer](https://media.licdn.com/dms/image/D5616AQHWNVakzx7ynQ/profile-displaybackgroundimage-shrink_350_1400/0/1691604074276?e=1715817600&v=beta&t=JdwXI78QahVg-tiiqkrqBMFZyfEMC6_0TzhR9navDVE)
 
-<!--
-**zahuruli/zahuruli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Md. Zahurul Islam a Full Stack Web Developer with experience of more than 4 years & ability to self learn and collaborate in rapidly changing environments and compositions. Worked through multiple stack . I have great experience, skills & knowledge about Node.js & Laravel Server-side & React client-side both technologies. I'm a quick learner, Always highly interested in learning new technology & trying to solve problems. Eager to tackle web development/design challenges to achieve lasting impacts on user experience.
 
-Here are some ideas to get you started:
+Skills: Backend Technology Skills →  ✰ Express.js  → MySQL  →MongoDB  → TypeORM   →Mongoose  →TypeScript  →AWS  →ES6  →Laravel  Frontend Technology Skills →  →React   →Next.js   →jQuery  →Ajax  →Bootstrap  →Tailwind css  →Material-UI  →Antd  Development Tools Skills  Git  GitHub  Docker (Basic)  → FileZilla  MySQL Workbench  → Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Merinasoft Ltd. 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Software Development 
+- 📫 How to reach me: zahurul8259@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zahurul-islam-9799a91aa//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://charming-rugelach-932299.netlify.app/)  
+
+
