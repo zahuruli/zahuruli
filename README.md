@@ -10,7 +10,7 @@ Skills: Backend Technology Skills →  ✰ Express.js  → MySQL  →MongoDB  �
 - 🔭 I’m currently working on Merinasoft Ltd. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Software Development 
-- 📫 How to reach me: zahurul8259@gmail.com 
+- 📫 How to reach me: eco1603021brur@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zahuruli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zahurul-islam-9799a91aa//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://charming-rugelach-932299.netlify.app/)  
